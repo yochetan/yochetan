@@ -2,7 +2,8 @@ Hello Everyone Who reads this!!!
 
 *INTRODUCTION*
 
-      I am Chetan, currently learning DevOps and Looking forward to contribute in the industry and make a place there.
+      I am Chetan, currently learning DevOps and Looking forward to contribute in the industry 
+      and make a place there.
 
 *WORKING*
       
