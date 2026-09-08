@@ -12,7 +12,8 @@ Hello Everyone Who reads this!!!
 
 *SKILLS/TOOLS*
 
-      Linux, Python, Networking, Git, Shell, Docker, Github Actions, Jenkins, DevSecOps, Kubernetes, Terraform, and more in the upcoming future.
+      Linux, Python, Networking, Git, Shell, Docker, Github Actions, Jenkins, 
+      DevSecOps, Kubernetes, Terraform, and more in the upcoming future.
 
 *CONTACT*
 
