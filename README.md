@@ -1,37 +1,25 @@
-Hello Everyone Who reads this!!!
+# Hi, I'm Chetan 👋
 
-*INTRODUCTION*
+**DevOps Engineer** based in Mumbai, India, focused on automating, containerizing, and shipping infrastructure reliably. I'm looking for DevOps, SRE, Cloud, and Platform Engineering roles.
 
-      I am Chetan, currently learning DevOps and Looking forward to contribute in the industry 
-      and make a place there.
+## 🔭 What I'm Working On
 
-*WORKING*
-      
-      I am currently working on my skills for DevOps 
+- Building hands-on DevOps skills through the [90 Days of DevOps](https://github.com/yochetan/90DaysOfDevOps) challenge
+- Practicing CI/CD pipelines, containerization, and infrastructure as code with small real projects
+- Web background: I previously built responsive websites with HTML, CSS, and JavaScript
 
-      Solving the tasks that are in the repo 90 Days of DevOps
+## 🛠️ Skills & Tools
 
-*SKILLS/TOOLS*
+| Area | Tools |
+|---|---|
+| **Cloud** | AWS |
+| **Containers & Orchestration** | Docker, Kubernetes |
+| **Infrastructure as Code** | Terraform |
+| **CI/CD** | GitHub Actions, Jenkins |
+| **OS & Scripting** | Linux, Shell, Python |
+| **Fundamentals** | Networking, Git, DevSecOps |
 
-      Linux, Python, Networking, Git, Shell, Docker, Github Actions, Jenkins, 
-      DevSecOps, Kubernetes, Terraform, and more in the upcoming future.
+## 📫 Get in Touch
 
-*CONTACT*
-
-    email: chetanmewada55@gmail.com
-
-
-<!--
-**yochetan/yochetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: [chetanmewada55@gmail.com](mailto:chetanmewada55@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/chetan-mewada-a3b64825b]
